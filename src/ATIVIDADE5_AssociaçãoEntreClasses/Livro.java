@@ -37,7 +37,7 @@ public class Livro {
 
      }
      public boolean getEmprestado(){
-       return emprestado;n
+       return emprestado;
      }
 
    //metodos
